@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nested XML with XSD
+description: Parsing deeply nested XML using an XSD schema definition
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
 # Parsing Nested XML using XML schema definition (XSD)
 ## Table of Contents
 1. [Extract a Spark DataFrame Schema from an XSD file (using scala via spark-shell)](#extract-a-spark-dataframe-schema-from-xsd-file-scala)

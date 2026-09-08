@@ -1,3 +1,10 @@
+---
+layout: default
+title: JSON Flattener
+description: Recursively flatten nested JSON, and infer a schema from a JSON string column
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
 # PYSPARK MODULES - JSON FLATTENER
 
 ## CODE

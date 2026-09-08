@@ -14,3 +14,6 @@ gem "webrick", "~> 1.8"
 
 # install jekyll_plugins, very important
 gem "github-pages", "~> 231", group: :jekyll_plugins
+
+# ruby >= 3.4 no longer bundles csv as a default gem (jekyll 3.9.x requires it)
+gem "csv"

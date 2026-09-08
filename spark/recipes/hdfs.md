@@ -1,3 +1,16 @@
+---
+layout: default
+title: HDFS Helper
+description: A thin PySpark wrapper over the Hadoop FileSystem API
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
+
+# HDFS Helper
+
+A thin PySpark wrapper over the Hadoop `FileSystem` API — path building and
+file operations from inside a Spark job.
+
 ```python
 
 from pyspark.sql import SparkSession

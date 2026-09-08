@@ -1,4 +1,10 @@
+---
+layout: default
+title: Local LLMs
+description: Running DeepSeek locally with Ollama and CodeGPT in VS Code
+---
 
+[← Platform]({{ site.baseurl }}/platform/)
 ## Step 1: Install Ollama and CodeGPT in VSCode
 To run DeepSeek locally, we first need to install Ollama, which allows us to run LLMs on our machine, and CodeGPT, the VSCode extension that integrates these models for coding assistance.
 

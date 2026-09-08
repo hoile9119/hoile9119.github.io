@@ -1,3 +1,10 @@
+---
+layout: default
+title: Webhook Sender
+description: Sending notifications out of a cluster job, including the proxy config it needs
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
 # PYSPARK MODULES - WEBHOOK
 
 ## CODE

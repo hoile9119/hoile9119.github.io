@@ -1,3 +1,15 @@
+---
+layout: default
+title: Impala Client
+description: Connecting to Impala from a Spark job, with server round-robin
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
+
+# Impala Client
+
+Querying Impala from a Spark job, round-robining across coordinator hosts.
+
 ```python
 import logging
 import os

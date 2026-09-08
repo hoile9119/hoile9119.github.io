@@ -1,3 +1,10 @@
+---
+layout: default
+title: Write Table
+description: Table write helper — partitioning, overwrite modes, and compaction
+---
+
+[← Recipes]({{ site.baseurl }}/spark/recipes/)
 # PYSPARK MODULES - WRITE TABLE
 
 ## CODE

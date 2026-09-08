@@ -1,3 +1,10 @@
+---
+layout: default
+title: Containerization
+description: Colima and Portainer on macOS
+---
+
+[← Platform]({{ site.baseurl }}/platform/)
 # Containerization
 
 ### Colima
